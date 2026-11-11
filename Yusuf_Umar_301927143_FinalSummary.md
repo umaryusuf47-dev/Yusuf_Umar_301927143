@@ -4,7 +4,7 @@
 
 ## Case study
 
-My case study is Distributed & Cloud Databases. I designed the database for database students and cloud operations analysts, with separate tables named cloud_account, replication_job and replication_event. It supports these operations: create and track replication jobs; record replication events; review job status and transfer activity.
+My case study is Distributed & Cloud Databases. I designed the database for database students and cloud operations analysts, with separate tables named cloud account, replication job and replication event. It supports these operations: create and track replication jobs; record replication events; review job status and transfer activity.
 
 ## Portfolio 1: Database Design and Modelling
 
